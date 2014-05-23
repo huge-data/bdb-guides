@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>bdb-parent</module>
+		<module>bdb_api</module>
 		<module>bdb-demo</module>
 	</modules>
 
